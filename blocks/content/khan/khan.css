@@ -46,6 +46,7 @@
 .khan__book-pic {
   width: 608px;
   height: 620px;
+  object-fit: contain;
 }
 .khan__buy-link {
   line-height: 42px;
